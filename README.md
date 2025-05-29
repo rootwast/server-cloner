@@ -24,8 +24,9 @@ Bu Python scripti, **kullanıcı tokeni** ile Discord’daki bir sunucunun rolle
 
 1. Python 3 yüklü olduğundan emin olun  
 2. `requests` modülünü yükleyin:
+3. pip install requests
 
-```bash
-pip install requests
-
-Made By Wast
+# Made By Wast
+Dc wastdev
+botoria development 
+https://discord.gg/f8dDDBMjWs
