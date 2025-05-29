@@ -1,4 +1,4 @@
-# 🚀 Discord Sunucu Kopyalama Aracı (Terminal)
+# 🚀 Discord Sunucu Kopyalama Aracı
 
 Bu Python scripti, **kullanıcı tokeni** ile Discord’daki bir sunucunun rollerini, kategorilerini ve kanallarını başka bir sunucuya terminal üzerinden kolayca kopyalar.
 
@@ -10,7 +10,6 @@ Bu Python scripti, **kullanıcı tokeni** ile Discord’daki bir sunucunun rolle
 - Kanal izinleri mümkün olduğunca korunur  
 - Kullanıcı tokeni ile çalışır (bot değil)  
 - Pydroid, Termux ve masaüstü Python uyumlu  
-- Renkli “Made by Wast” terminal imzası var
 
 ---
 
